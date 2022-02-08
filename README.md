@@ -1,6 +1,9 @@
 <img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"/>
 
 ## Hackintosh OpenCore HP240 G6
+
+<img src="https://raw.githubusercontent.com/alebypegasus/HP240G6/main/Captura%20de%20Tela%202022-02-08%20a%CC%80s%2013.18.23.png"/>
+
 EFI premade of OpenCore bootloader for HP 240 G6 is here!
 
 ## Current version - OpenCore 0.7.8 (8th February 2022!)
