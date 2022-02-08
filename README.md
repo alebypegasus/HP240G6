@@ -89,3 +89,7 @@ https://github.com/acidanthera/WhateverGreen
 https://github.com/acidanthera/OcBinaryData
 
 ## Thanks for using my EFI premade, I would be glad for some feedback! :)
+
+## Special thanks to Anup from Hackintosh Group on Facebook and Gabriel Luchina from Universo Hackintosh.
+https://www.facebook.com/groups/5788317445/
+https://www.youtube.com/channel/UCZl_huXnf8T4e0dHv5zdFlw
